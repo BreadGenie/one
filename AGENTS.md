@@ -4,6 +4,8 @@ Start here for work across Frappe products. Follow the shared Git attribution
 rule in `docs/git-policy.md`. When working in a product checkout, read its
 local instructions and any scoped guidance for the files you edit.
 
+For local setup or app compatibility, read the [Pilot setup guide](docs/pilot-setup.md).
+
 ## Other Repos
 
 ### Framework and Suite
